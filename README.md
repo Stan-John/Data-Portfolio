@@ -2,7 +2,7 @@
 
 🎯 Senior Data Analyst | Future Data Scientist | Lifelong Learner  
 📍 Bangalore, India  
-📚 Currently advancing my skills Python, SQL, Excel, and Power BI  
+📚 Currently advancing my skills in Python, SQL, Excel, and Power BI  
 
 ## 🚀 What I'm Working On
 - Upskilling with a 12-month data roadmap
